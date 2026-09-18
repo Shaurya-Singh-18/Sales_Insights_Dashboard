@@ -4,7 +4,7 @@ Project description,functions,queries written,environment used are mentioned in 
 
 ### Sales Data - Cleaning & Exploration
 Removing and adding columns as necessary in the tables and preparing the database tables for Analysis.
-Data subset collected in [SQL dump file](https://github.com/PranathiYarravalli20/Sales-Insights-using-Power-BI/blob/main/Database%20dump.sql) and loaded to SQL server for exploring the data tables.
+Data subset collected in [SQL dump file](https://github.com/Shaurya-Singh-18/Sales_Insights_Dashboard/blob/main/Data%20Analysis%20using%20SQL.sql) and loaded to SQL server for exploring the data tables.
 Tables:
 1. Customers
 2. Date
@@ -14,10 +14,10 @@ Tables:
 
 ### SQL queries for data cleaning and exploration
 Data acquired is cleansed using SQL queries here.
-[click here to view code](https://github.com/PranathiYarravalli20/Sales-Insights-using-Power-BI/blob/main/Data%20Cleaning%20%26%20Exploration%20using%20SQL.sql)
+[click here to view code](https://github.com/Shaurya-Singh-18/Sales_Insights_Dashboard/blob/main/Data%20Cleaning%20%26%20Exploration%20using%20SQL.sql)
 
 ### Analysis using SQL
-[Click here to view code](https://github.com/PranathiYarravalli20/Sales-Insights-using-Power-BI/blob/main/Data%20Analysis%20using%20SQL.sql)
+[Click here to view code](https://github.com/Shaurya-Singh-18/Sales_Insights_Dashboard/blob/main/Data%20Analysis%20using%20SQL.sql)
 Queries:
 1. All tables and their rows in sales schema
 2. Date range in date table
@@ -30,7 +30,7 @@ Queries:
 9. Calculating revenue Contribution percentage for each market across all years
 10. Finding market name that made maximum sales
 
-### Data Visualization using [Power BI dashboard](https://github.com/PranathiYarravalli20/Sales-Insights-using-Power-BI/blob/main/Sales%20Insights%20-%20Visualization.pbix)
+### Data Visualization using [Power BI dashboard](https://github.com/Shaurya-Singh-18/Sales_Insights_Dashboard/blob/main/Sales%20Insights%20-%20Visualization.pbix)
 Getting data into BI through SQL dump and performing Data Visualization and analysing of hardware store products across different regions, observing profit analysis and revenue trend of the company.
 
 ### Insights:
@@ -38,9 +38,6 @@ Getting data into BI through SQL dump and performing Data Visualization and anal
 2. Highest revenue generated from Markets such as Delhi NCR, Mumbai, Ahmedabad, Bhopal, Nagpur, and so on.
 3. Highest quantities sold in the Market such as Delhi NCR, Mumbai, Nagpur, Kochi, Ahmedabad, and so on.
 4. Majority of the sales were takes place in the month of January followed by November and March.
-
-Dashboard of Performance Tracking of sales for quick view:
-![image](https://github.com/Shaurya-Singh-18/Sales_Insights_Dashboard/blob/main/Sales%20Insights%20-%20Visualization.pbix)
 
 
 
