@@ -40,7 +40,7 @@ Getting data into BI through SQL dump and performing Data Visualization and anal
 4. Majority of the sales were takes place in the month of January followed by November and March.
 
 Dashboard of Performance Tracking of sales for quick view:
-![image](https://user-images.githubusercontent.com/106775145/209099717-295fd41e-fffc-4bdb-83ab-a50bbef24b86.png)
+![image](https://github.com/Shaurya-Singh-18/Sales_Insights_Dashboard/blob/main/Sales%20Insights%20-%20Visualization.pbix)
 
 
 
