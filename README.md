@@ -39,6 +39,7 @@ Getting data into BI through SQL dump and performing Data Visualization and anal
 3. Highest quantities sold in the Market such as Delhi NCR, Mumbai, Nagpur, Kochi, Ahmedabad, and so on.
 4. Majority of the sales were takes place in the month of January followed by November and March.
 
-
+Dashboard of Performance Tracking of sales for quick view:
+![image](https://user-images.githubusercontent.com/106775145/209099717-295fd41e-fffc-4bdb-83ab-a50bbef24b86.png)
 
 
